@@ -18,15 +18,8 @@ Proceed with caution and ensure you fully understand each step before proceeding
 
 <h2>Screenshots</h2>
 
-![Home Screen](Screenshots/HomeScreen.jpg "Home Screen")
-
-![Lock Screen](Screenshots/LockScreen.jpg "Lock Screen")
-
-![Notification](Screenshots/Notification.jpg "Notification")
-
-![App Drawer](Screenshots/AppDrawer.jpg "App Drawer")
-
-![Settings](Screenshots/Settings.jpg "Settings")
+<img src="Screenshots/HomeScreen.jpg" alt="Home Screen" width="200"/> <img src="Screenshots/LockScreen.jpg" alt="Lock Screen" width="200"/>
+<img src="Screenshots/AppDrawer.jpg" alt="App Drawer" width="200"/> <img src="Screenshots/Settings.jpg" alt="Settings" width="200"/> <img src="Screenshots/Notification.jpg" alt="Notification Shade" width="200"/>
 
 ---
 
