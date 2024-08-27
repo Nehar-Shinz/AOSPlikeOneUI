@@ -16,6 +16,20 @@ Proceed with caution and ensure you fully understand each step before proceeding
 
 ---
 
+<h2>Screenshots</h2>
+
+![Home Screen](Screenshots/HomeScreen.jpg "Home Screen")
+
+![Lock Screen](Screenshots/LockScreen.jpg "Lock Screen")
+
+![Notification](Screenshots/Notification.jpg "Notification")
+
+![App Drawer](Screenshots/AppDrawer.jpg "App Drawer")
+
+![Settings](Screenshots/Settings.jpg "Settings")
+
+---
+
 <h2>Prerequisites</h2>
 
 Before you begin, ensure you have the following:
@@ -347,15 +361,4 @@ By installing GCAM and using the right configuration, you can improve the qualit
 
 Before proceeding with any of the steps mentioned, it's crucial to validate the newest update of each tool or app by checking the latest information available online. Each update may bring changes that could affect the steps or tools used in this guide. Always do thorough research and ensure you're comfortable with the customization steps before applying them to your device.
 
----
-
-<h2>Screenshots</h2>
-
-![Home Screen](Screenshots/HomeScreen.jpg "Home Screen")
-
-![Lock Screen](Screenshots/LockScreen.jpg "Lock Screen")
-
-![Notification](Screenshots/Notification.jpg "Notification")
-
-![Settings](Screenshots/Settings.jpg "Settings")
 
